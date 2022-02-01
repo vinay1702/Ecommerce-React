@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.ant-menu-dark.ant-menu-horizontal > .ant-menu-item:hover,.ant-menu.ant-menu-dark .ant-menu-item-selected, .ant-menu-submenu-popup.ant-menu-dark .ant-menu-item-selected {
+  background-color: transparent !important;
+}
+
+.ant-form-item-label{
+  text-align: left !important;
+}
